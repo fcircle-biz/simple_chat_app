@@ -13,7 +13,7 @@
 ### 1️⃣ プロジェクトフォルダに移動
 
 ```bash
-cd /c/git/simple_deep_search
+cd /c/git/simple_chat_app
 ```
 
 ### 2️⃣ 仮想環境を作成
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ### 6️⃣ Streamlit アプリの実行
 
 ```bash
-streamlit run streamlit_chat_app.py
+streamlit run simple_chat_app.py
 ```
 
 ブラウザでアプリが起動します。
