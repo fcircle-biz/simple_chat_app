@@ -1,4 +1,4 @@
-# simple\_deep\_search - セットアップ手順
+# simple_chat_app - セットアップ手順
 
 このプロジェクトでは、`streamlit` と `langchain` を使用してチャットアプリを構築します。
 **古いバージョンのlangchain-community** を使用するため、仮想環境のセットアップが必須です。
